@@ -3,4 +3,4 @@
 
 - 🌱 I’m currently learning #SQL, #Python, and different #visualization #tools.
 - 📫 How to reach me: olenailinav@gmail.com
-- <a href="https://olena-ilina.notion.site/Olena-Ilina-92cc34a0a35340b5a3f49b2880e9f074
+- <a href="https://olena-ilina.notion.site/Olena-Ilina-92cc34a0a35340b5a3f49b2880e9f074" target="_blank"></a> 
