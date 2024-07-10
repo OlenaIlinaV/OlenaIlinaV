@@ -2,5 +2,4 @@
 <h3 align="center">I am a business and data analyst. I currently live in Prague, but I am originally from Ukraine.</h3>
 
 - 🌱 I’m currently learning #SQL, #Python, and different #visualization #tools.
-- 📫 How to reach me: olenailinav@gmail.com
-- <a href="https://olena-ilina.notion.site/Olena-Ilina-92cc34a0a35340b5a3f49b2880e9f074">My projects</a>
+- 🗂️ <a href="https://olena-ilina.notion.site/Olena-Ilina-92cc34a0a35340b5a3f49b2880e9f074">My projects</a>
